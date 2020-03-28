@@ -1,0 +1,23 @@
+body {
+	background-image: url(planodefundo.jpg);
+	height: 100%;
+	width: 100%;
+}
+
+nav {
+	font-size: large;
+	font-family: serif;
+}
+
+.borda {
+	border: 6px solid; 
+	border-color: white;
+}
+.justificar {
+	text-align: justify;
+}
+
+.espacoentreimagens{
+    margin: 30px ;
+
+}
